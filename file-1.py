@@ -8,3 +8,5 @@ after deletion of ssh public key
 
 token method
 
+token method 2
+
