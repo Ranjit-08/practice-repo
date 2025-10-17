@@ -10,3 +10,5 @@ token method
 
 token method 2
 
+token method 3
+
